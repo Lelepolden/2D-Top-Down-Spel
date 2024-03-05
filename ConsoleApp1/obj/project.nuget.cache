@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5O8ucb99KfCUYd/ASI8vWuRNQTvQhJdHyLwELXgXH0p4GVhCwAn+9xdh3jzPuRsd8Nl3T9YFh2ST10mLSe3vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leopold.seidenglanz\\OneDrive - Academedia\\progr\\2D Top Down Spel\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leopold.seidenglanz\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\leopold.seidenglanz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
